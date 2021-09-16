@@ -1,6 +1,6 @@
 {
   "name": "akbari-react-date-picker",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "react persian jalali date picker",
   "author": "makbari1994",
   "license": "MIT",
@@ -49,5 +49,21 @@
   },
   "files": [
     "dist"
+  ],
+  "dependencies": {
+    "jalali-moment": "^3.3.8"
+  },
+  "keywords": [
+    "datepicker",
+    "react persian datepicker",
+    "react persian date picker",
+    "react jalali datepicker",
+    "react jalali date picker",
+    "persian datepicker",
+    "jalali datepicker",
+    "react datepicker",
+    "react persian datepicker",
+    "js datepicker",
+    "reactjs"
   ]
 }

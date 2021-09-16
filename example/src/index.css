@@ -12,3 +12,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.input{
+  width: 200px;
+  height: 100px;
+}
+.foo{
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  width: 100px;
+  height: 100px;
+  z-index: 10000;
+  background-color: red;
+}
+.items{
+  width: 100%;
+  min-height: 200px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-top: 100px;
+  flex-wrap: wrap;
+}
+.item{
+  width: 300px;
+  margin-right: 10px;
+}
