@@ -4,65 +4,6 @@ import { AkbariDatePicker } from 'akbari-react-date-picker'
 import 'akbari-react-date-picker/dist/index.css'
 
 
-// class App extends React.Component {
-
-//   constructor() {
-//     super();
-//     this.state = {
-//       current_date: '1399/10/5',
-//       min_date: '1300/5/5',
-//       max_date: '1403/8/4',
-//       input_type: 'jalali'
-//     }
-//     this.ref = React.createRef();
-//   }
-
-//   componentDidMount() {
-
-//     setTimeout(() => {
-
-//       this.setState({
-//         current_date: '2020/8/5',
-//         min_date: '2010/5/9',
-//         max_date: '2040/10/5',
-//         input_type: 'gregorian'
-//       });
-
-//       this.ref.current.change_date();
-//       this.ref.current.clear_value();
-
-//     }, 3000);
-
-
-
-//   }
-
-
-
-
-
-
-//   on_change_date(date) {
-//     alert(date);
-//   }
-
-//   render() {
-
-//     return (
-//       <>
-//         <div className="input">
-//           <AkbariDatePicker input_type={this.state.input_type} current_date={this.state.current_date}
-//             on_change_date={this.on_change_date.bind(this)}
-//             min_date={this.state.min_date}
-//             max_date={this.state.max_date}
-//             ref={this.ref} width="300px" />
-//         </div>
-//         <div className="foo"></div>
-//       </>
-//     )
-//   }
-// }
-
 
 
 
