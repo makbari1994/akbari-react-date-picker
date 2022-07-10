@@ -14,13 +14,13 @@ new version  is comming soon ....
 
  desktop mode
  
-![demo](https://s1.im.ge/2021/06/19/Xoptf.png)
+![demo](https://kapp.akbar-baba.ir/desktop-react.png)
 
 
 
 responsive mode 
 
-![demo](https://s2.im.ge/2021/06/19/Xovzm.png)
+![demo](https://kapp.akbar-baba.ir/mobile.png)
 
 
 ## Install
